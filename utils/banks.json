@@ -1,0 +1,198 @@
+[
+    {
+        "Id": 1,
+        "Code": "044",
+        "Name": "Access Bank",
+        "IsMobileVerified": null,
+        "branches": null
+    },
+    {
+        "Id": 2,
+        "Code": "023",
+        "Name": "Citi Bank",
+        "IsMobileVerified": null,
+        "branches": null
+    },
+    {
+        "Id": 4,
+        "Code": "050",
+        "Name": "EcoBank PLC",
+        "IsMobileVerified": null,
+        "branches": null
+    },
+    {
+        "Id": 5,
+        "Code": "011",
+        "Name": "First Bank PLC",
+        "IsMobileVerified": null,
+        "branches": null
+    },
+    {
+        "Id": 6,
+        "Code": "214",
+        "Name": "First City Monument Bank",
+        "IsMobileVerified": null,
+        "branches": null
+    },
+    {
+        "Id": 7,
+        "Code": "070",
+        "Name": "Fidelity Bank",
+        "IsMobileVerified": null,
+        "branches": null
+    },
+    {
+        "Id": 8,
+        "Code": "058",
+        "Name": "Guaranty Trust Bank",
+        "IsMobileVerified": null,
+        "branches": null
+    },
+    {
+        "Id": 9,
+        "Code": "076",
+        "Name": "Polaris bank",
+        "IsMobileVerified": null,
+        "branches": null
+    },
+    {
+        "Id": 10,
+        "Code": "221",
+        "Name": "Stanbic IBTC Bank",
+        "IsMobileVerified": null,
+        "branches": null
+    },
+    {
+        "Id": 11,
+        "Code": "068",
+        "Name": "Standard Chaterted bank PLC",
+        "IsMobileVerified": null,
+        "branches": null
+    },
+    {
+        "Id": 12,
+        "Code": "232",
+        "Name": "Sterling Bank PLC",
+        "IsMobileVerified": null,
+        "branches": null
+    },
+    {
+        "Id": 13,
+        "Code": "033",
+        "Name": "United Bank for Africa",
+        "IsMobileVerified": null,
+        "branches": null
+    },
+    {
+        "Id": 14,
+        "Code": "032",
+        "Name": "Union Bank PLC",
+        "IsMobileVerified": null,
+        "branches": null
+    },
+    {
+        "Id": 15,
+        "Code": "035",
+        "Name": "Wema Bank PLC",
+        "IsMobileVerified": null,
+        "branches": null
+    },
+    {
+        "Id": 16,
+        "Code": "057",
+        "Name": "Zenith bank PLC",
+        "IsMobileVerified": null,
+        "branches": null
+    },
+    {
+        "Id": 17,
+        "Code": "215",
+        "Name": "Unity Bank PLC",
+        "IsMobileVerified": null,
+        "branches": null
+    },
+    {
+        "Id": 18,
+        "Code": "101",
+        "Name": "ProvidusBank PLC",
+        "IsMobileVerified": null,
+        "branches": null
+    },
+    {
+        "Id": 183,
+        "Code": "082",
+        "Name": "Keystone Bank",
+        "IsMobileVerified": null,
+        "branches": null
+    },
+    {
+        "Id": 184,
+        "Code": "301",
+        "Name": "Jaiz Bank",
+        "IsMobileVerified": null,
+        "branches": null
+    },
+    {
+        "Id": 186,
+        "Code": "030",
+        "Name": "Heritage Bank",
+        "IsMobileVerified": null,
+        "branches": null
+    },
+    {
+        "Id": 231,
+        "Code": "100",
+        "Name": "Suntrust Bank",
+        "IsMobileVerified": null,
+        "branches": null
+    },
+    {
+        "Id": 252,
+        "Code": "608",
+        "Name": "FINATRUST MICROFINANCE BANK",
+        "IsMobileVerified": null,
+        "branches": null
+    },
+    {
+        "Id": 253,
+        "Code": "090175",
+        "Name": "Rubies Microfinance Bank",
+        "IsMobileVerified": null,
+        "branches": null
+    },
+    {
+        "Id": 254,
+        "Code": "090267",
+        "Name": "Kuda",
+        "IsMobileVerified": null,
+        "branches": null
+    },
+    {
+        "Id": 258,
+        "Code": "090115",
+        "Name": "TCF MFB",
+        "IsMobileVerified": null,
+        "branches": null
+    },
+    {
+        "Id": 259,
+        "Code": "400001",
+        "Name": "FSDH Merchant Bank",
+        "IsMobileVerified": null,
+        "branches": null
+    },
+    {
+        "Id": 260,
+        "Code": "502",
+        "Name": "Rand merchant Bank",
+        "IsMobileVerified": null,
+        "branches": null
+    },
+    {
+        "Id": 301,
+        "Code": "103",
+        "Name": "Globus Bank",
+        "IsMobileVerified": null,
+        "branches": null
+    }
+]
